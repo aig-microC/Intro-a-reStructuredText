@@ -1,0 +1,126 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.debian.org/index.es.html)
+>> /Border [ 0 0 0 ] /Rect [ 238.4378 773.1969 270.1178 785.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linux.org/)
+>> /Border [ 0 0 0 ] /Rect [ 278.2778 773.1969 298.8378 785.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docutils.sourceforge.io/rst.html)
+>> /Border [ 0 0 0 ] /Rect [ 306.9978 773.1969 318.1078 785.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://rst2pdf.org/)
+>> /Border [ 0 0 0 ] /Rect [ 326.2678 773.1969 356.8378 785.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R ] /Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 10 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/PageLabels 12 0 R /PageMode /UseNone /Pages 10 0 R /Type /Catalog
+>>
+endobj
+9 0 obj
+<<
+/Author () /CreationDate (D:20240923081253+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20240923081253+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 1 /Kids [ 7 0 R ] /Type /Pages
+>>
+endobj
+11 0 obj
+<<
+/Length 407
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Esto es el texto normal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.02362 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 187.4142 0 Td 12 TL /F1 10 Tf 0 .4 .6 rg (Debian) Tj 0 0 0 rg ( | ) Tj 0 .4 .6 rg (linux) Tj 0 0 0 rg ( | ) Tj 0 .4 .6 rg (rst) Tj 0 0 0 rg ( | ) Tj 0 .4 .6 rg (rst2pdf) Tj T* -187.4142 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+12 0 obj
+<<
+/Nums [ 0 13 0 R ]
+>>
+endobj
+13 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000073 00000 n 
+0000000104 00000 n 
+0000000211 00000 n 
+0000000399 00000 n 
+0000000573 00000 n 
+0000000765 00000 n 
+0000000937 00000 n 
+0000001178 00000 n 
+0000001266 00000 n 
+0000001523 00000 n 
+0000001583 00000 n 
+0000002041 00000 n 
+0000002082 00000 n 
+trailer
+<<
+/ID 
+[<0292031165c32802c9d1a66047b23ebc><0292031165c32802c9d1a66047b23ebc>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 14
+>>
+startxref
+2116
+%%EOF

@@ -1,0 +1,1165 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R /F5 10 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:jrh@example.com)
+>> /Border [ 0 0 0 ] /Rect [ 148.063 661.7236 236.767 677.7236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+>> /Border [ 0 0 0 ] /Rect [ 152.059 413.8236 432.355 428.2236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 5 0 R 7 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/PageLabels 18 0 R /PageMode /UseNone /Pages 14 0 R /Type /Catalog
+>>
+endobj
+13 0 obj
+<<
+/Author () /CreationDate (D:20250115101525+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250115101525+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Docinfo Example) /Trapped /False
+>>
+endobj
+14 0 obj
+<<
+/Count 3 /Kids [ 8 0 R 9 0 R 11 0 R ] /Type /Pages
+>>
+endobj
+15 0 obj
+<<
+/Length 7733
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 736.2236 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4.8 Tm /F1 24 Tf 28.8 TL 155.6302 0 Td (Docinfo Example) Tj T* -155.6302 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 675.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 29.71937 0 Td (Author:) Tj T* -29.71937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 19 cm
+Q
+q
+1 0 0 1 91.03937 19 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 12 Tf 16 TL 19.6 0 Td (J.) Tj T* -19.6 0 Td ET
+Q
+Q
+q
+1 0 0 1 43 -3 cm
+q
+BT 1 0 0 1 0 4 Tm 16 TL /F1 12 Tf 0 0 0 rg (Random Hacker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 656.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 24.37937 0 Td (Contact:) Tj T* -24.37937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (jrh@example.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 637.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 43.03937 0 Td (Date:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (2002-08-18) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 618.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 32.37137 0 Td (Status:) Tj T* -32.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Work In Progress) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 599.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 25.02737 0 Td (Version:) Tj T* -25.02737 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 580.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 17.02337 0 Td (Filename:) Tj T* -17.02337 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL ($RCSfile$) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 561.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 12.37937 0 Td (Copyright:) Tj T* -12.37937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (This document has been placed in the public domain.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 555.2236 cm
+Q
+q
+1 0 0 1 57.02362 539.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 523.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 507.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 507.2236 cm
+Q
+q
+1 0 0 1 57.02362 501.2236 cm
+Q
+q
+1 0 0 1 57.02362 482.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 37.05137 0 Td (Autor:) Tj T* -37.05137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL ($ Angel de la Iglesia Gonzalo $) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 463.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 3.67937 0 Td (Version/rev:) Tj T* -3.67937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (0.1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 444.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 43.03937 0 Td (Date:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (20240907) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 361.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 67 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 12.37937 0 Td (Copyright:) Tj T* -12.37937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 68 Tm 9.236622 Tw 16 TL /F1 12 Tf 0 0 0 rg (Este trabajo est\341 bajo licencia ) Tj /F4 12 Tf (Creative Commons BY-NC-SA 4.0) Tj /F1 12 Tf  T* 0 Tw 8.082992 Tw (\() Tj 0 .4 .6 rg (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es) Tj 0 0 0 rg (\) que te permite) Tj T* 0 Tw .245748 Tw (compartir, adaptar y redistribuir esta obra, siempre y cuando des cr\351dito de ma-) Tj  T* 0 Tw 1.406537 Tw (nera adecuada a la obra original, no hagas uso con prop\363sito comercial de la) Tj T* 0 Tw (obra y si compartes tu nueva obra, lo hagas bajo esta misma licencia.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 342.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 43.03937 0 Td (Date:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (2001-08-16) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 323.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 25.02737 0 Td (Version:) Tj T* -25.02737 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 254.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 53 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 23.04737 0 Td (Authors:) Tj T* -23.04737 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 63 cm
+Q
+q
+1 0 0 1 91.03937 63 cm
+Q
+q
+1 0 0 1 91.03937 47 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 12 Tf 16 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Me) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 41 cm
+Q
+q
+1 0 0 1 91.03937 25 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 12 Tf 16 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Myself) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 19 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 12 Tf 16 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (I) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 203.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 4.37537 0 Td (Indentation:) Tj T* -4.37537 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 16 TL -0.101359 Tw (Since the field marker may be quite long, the second and subsequent lines of the) Tj T* 0 Tw .783561 Tw (field body do not have to line up with the first line, but they must be indented) Tj T* 0 Tw (relative to the field name marker, and they must line up with each other.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 184.2236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 3.67937 0 Td (Parameter i:) Tj T* -3.67937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (integer) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 162.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Las exhortaciones se muestran de la siguiente forma:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 150.2236 cm
+Q
+q
+1 0 0 1 57.02362 66.22362 cm
+q
+1 .972549 .862745 rg
+n 0 84 481.2283 -84 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 58 Tm  T* ET
+q
+1 0 0 1 16 50 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (\241Atenci\363n!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Todas las exhortaciones pueden tener una l\355nea de aclaraci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+Q
+q
+1 0 0 1 16 16 cm
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 84 m 481.2283 84 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 84 l S
+n 481.2283 0 m 481.2283 84 l S
+Q
+Q
+Q
+ 
+endstream
+endobj
+16 0 obj
+<<
+/Length 4337
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 695.0236 cm
+q
+1 .972549 .862745 rg
+n 0 70 481.2283 -70 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 44 Tm  T* ET
+q
+1 0 0 1 16 38 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 12 Tf 16 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Tambi\351n se pueden incluir listas, siempre respetando la sangr\355a.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 16 32 cm
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 12 Tf 16 TL 6.8 0 Td (\177) Tj T* -6.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Y est\341 es la \372ltima l\355nea.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 16 16 cm
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 70 m 481.2283 70 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 70 l S
+n 481.2283 0 m 481.2283 70 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 689.0236 cm
+Q
+q
+1 0 0 1 57.02362 677.0236 cm
+Q
+q
+1 0 0 1 57.02362 599.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (\241Precauci\363n!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 593.0236 cm
+Q
+q
+1 0 0 1 57.02362 581.0236 cm
+Q
+q
+1 0 0 1 57.02362 503.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (\241PELIGRO!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 497.0236 cm
+Q
+q
+1 0 0 1 57.02362 485.0236 cm
+Q
+q
+1 0 0 1 57.02362 407.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (Error) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 401.0236 cm
+Q
+q
+1 0 0 1 57.02362 389.0236 cm
+Q
+q
+1 0 0 1 57.02362 311.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (Sugerencia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 305.0236 cm
+Q
+q
+1 0 0 1 57.02362 293.0236 cm
+Q
+q
+1 0 0 1 57.02362 215.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (Importante) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 209.0236 cm
+Q
+q
+1 0 0 1 57.02362 197.0236 cm
+Q
+q
+1 0 0 1 57.02362 119.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (Nota) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 113.0236 cm
+Q
+q
+1 0 0 1 57.02362 101.0236 cm
+Q
+ 
+endstream
+endobj
+17 0 obj
+<<
+/Length 1770
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 687.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (Consejo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 681.0236 cm
+Q
+q
+1 0 0 1 57.02362 669.0236 cm
+Q
+q
+1 0 0 1 57.02362 591.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F1 15 Tf 18 TL (Advertencia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Esto va despu\351s) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 585.0236 cm
+Q
+q
+1 0 0 1 57.02362 573.0236 cm
+Q
+q
+1 0 0 1 57.02362 495.0236 cm
+q
+1 .972549 .862745 rg
+n 0 78 481.2283 -78 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 52 Tm  T* ET
+q
+1 0 0 1 16 44 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F5 15 Tf .133333 .133333 .133333 rg (\241Atenci\363n!) Tj /F1 15 Tf ( Esta ) Tj /F4 15 Tf (advertencia) Tj /F1 15 Tf ( est\341 personalizada.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 12 Tf 16 TL (Contenido de la advertencia.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 78 m 481.2283 78 l S
+n 0 0 m 481.2283 0 l S
+n 0 0 m 0 78 l S
+n 481.2283 0 m 481.2283 78 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 489.0236 cm
+Q
+ 
+endstream
+endobj
+18 0 obj
+<<
+/Nums [ 0 19 0 R 1 20 0 R 2 21 0 R ]
+>>
+endobj
+19 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+20 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+21 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000073 00000 n 
+0000000145 00000 n 
+0000000254 00000 n 
+0000000366 00000 n 
+0000000471 00000 n 
+0000000643 00000 n 
+0000000753 00000 n 
+0000000960 00000 n 
+0000001189 00000 n 
+0000001394 00000 n 
+0000001503 00000 n 
+0000001709 00000 n 
+0000001798 00000 n 
+0000002071 00000 n 
+0000002144 00000 n 
+0000009929 00000 n 
+0000014318 00000 n 
+0000016140 00000 n 
+0000016199 00000 n 
+0000016233 00000 n 
+0000016267 00000 n 
+trailer
+<<
+/ID 
+[<8d42adfadcceedd0fd2f73e24dc0f79a><8d42adfadcceedd0fd2f73e24dc0f79a>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 13 0 R
+/Root 12 0 R
+/Size 22
+>>
+startxref
+16301
+%%EOF

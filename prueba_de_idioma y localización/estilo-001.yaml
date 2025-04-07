@@ -1,0 +1,57 @@
+fontsAlias:
+    stdFont: Times-Roman
+#    stdFont: DejaVuSerif
+#    stdFont: 'Bitstream Charter'
+#    stdFont: C059-Roman
+#    stdFont: 'Gentium Book Plus'
+    stdBold: Times-Bold-Italic
+       
+pageTemplates:
+  paginaPortada:
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showHeader: false
+    showFooter: false
+  paginaIndice:
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showHeader: false
+    showFooter: true
+  Normal:
+    frames:
+    - [0cm, 0cm, 100%, 100%]
+    showHeader: true
+    showFooter: true
+
+pageSetup:
+  size: A4
+  firstTemplate: paginaPortada
+
+styles:
+    base:
+        fontName: stdFont
+        fontSize: 12
+        hyphenation: true
+        leading: 16
+        hyphenationLang: es-ES
+        embeddedHyphenation: 1
+
+    item-list:
+        colWidths:
+        - 40pt
+        - null
+        commands:
+        - - VALIGN
+          - - 0
+            - 0
+          - - -1
+            - -1
+          - TOP
+        - - RIGHTPADDING
+          - - 0
+            - 0
+          - - 1
+            - -1
+          - 0
+        parent: bodytext
+
