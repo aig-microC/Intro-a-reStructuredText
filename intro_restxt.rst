@@ -1,4 +1,3 @@
-.. borradas las dos líneas que no hacían falta
 
    
 ##################################################
