@@ -1,4 +1,4 @@
-
+.. Borrar la siguiente línea en la siguiente revisión
 .. .. default-role:: math 
 
    
