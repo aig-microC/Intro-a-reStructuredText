@@ -1,5 +1,4 @@
-.. Borrar la siguiente línea en la siguiente revisión
-.. .. default-role:: math 
+.. borradas las dos líneas que no hacían falta
 
    
 ##################################################
